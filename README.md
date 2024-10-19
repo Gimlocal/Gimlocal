@@ -8,8 +8,9 @@
 
 <br>
 
-I'm interested in C++, C#, JavaScript
-Also in Unity, Express.js
+<b>I'm interested in C++, C#, JavaScript</b>
+<br>
+<b>Also in Unity, Express.js</b>
 
 
 
