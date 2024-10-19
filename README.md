@@ -1,8 +1,11 @@
 ## Hi there 👋
+
 <div align='center'>
-![Gimlocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimlocal&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </div>
 
+
+![Gimlocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimlocal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
