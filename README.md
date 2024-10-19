@@ -2,7 +2,7 @@
 
 <h3 align='center'>🔭Tech Stack</h3>
 <div align='center'>
-<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  <img src="https://img.shields.io/badge/cplusplus-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 
