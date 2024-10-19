@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/unity-#808080?style=for-the-badge&logo=unity&logoColor=black" />
+<img src="https://img.shields.io/badge/unity-808080?style=for-the-badge&logo=unity&logoColor=black" />
 <br>
 
 
