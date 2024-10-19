@@ -5,7 +5,11 @@
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/unity-808080?style=for-the-badge&logo=unity&logoColor=black" />
 </div>
+
 <br>
+
+I'm interested in C++, C#, JavaScript
+Also in Unity, Express.js
 
 
 
