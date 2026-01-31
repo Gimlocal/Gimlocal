@@ -16,7 +16,9 @@
 
 
 ![Gimlocal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gimlocal&show_icons=true&theme=tokyonight)
+
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
