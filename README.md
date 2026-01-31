@@ -2,15 +2,14 @@
 
 <div>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/unity-808080?style=for-the-badge&logo=unity&logoColor=black" />
 </div>
 
 <br>
 
-<b>I'm interested in C++, C#, JavaScript</b>
+<b>I'm interested in C++, C#</b>
 <br>
-<b>Also in Unity, Express.js</b>
+<b>Also in Unity</b>
 
 
 
@@ -18,8 +17,6 @@
 ![Gimlocal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gimlocal&show_icons=true&theme=tokyonight)
 
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <!--
